@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "d4f3be97d5c9ff56",
+        "id": "69fe3bf8e25afc69",
         "type": "tabs",
         "children": [
           {
-            "id": "0217800ee3b04c69",
+            "id": "b187a9148d4ff230",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes overview.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Kubernetes overview"
-            }
-          },
-          {
-            "id": "427f1dee1571452d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Node overview.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Node overview"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,16 +163,39 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "427f1dee1571452d",
+  "active": "b187a9148d4ff230",
   "lastOpenFiles": [
-    "worker-node.md",
-    "Pod overview.md",
+    "Excalidraw/services.md",
+    "Pasted Image 20251103183237_819.png",
+    "Pasted Image 20251103190053_349.png",
+    "Excalidraw/headless-service.md",
+    "Excalidraw/loadbalancer-service.md",
+    "Services overview.md",
+    "StatefulSet overview.md",
+    "Volumes overview.md",
+    "Excalidraw/storage-class.md",
+    "README.md",
+    "Pasted Image 20251104113421_714.png",
+    "Excalidraw/nodeport-service.md",
+    "Pasted Image 20251104112711_503.png",
+    "Pasted image 20251104103604.png",
+    "Pasted image 20251104103308.png",
     "Node overview.md",
     "Kubernetes overview.md",
-    "Cluster overview.md",
+    "worker-node.md",
+    "Pasted image 20251104103035.png",
+    "Pasted image 20251104101751.png",
+    "Pasted image 20251104101751 1.png",
+    "Pasted image 20251104102126.png",
+    "Excalidraw/persistent-volume-claim.md",
+    "Pod overview.md",
+    "Excalidraw/statefulset.md",
     "Excalidraw/worker-node.md",
-    "Excalidraw/master-node.md",
+    "Cluster overview.md",
+    "Excalidraw/volumes.md",
+    "persistent-volume-claim.md",
     "Excalidraw/pods.md",
+    "Excalidraw/master-node.md",
     "nodes.md",
     "Excalidraw/Drawing 2025-10-25 16.58.26.excalidraw.md",
     "Excalidraw",
